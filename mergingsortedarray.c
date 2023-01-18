@@ -12,7 +12,7 @@ scanf("%d",&a[i]);
 printf("Enter size of 2nd array: ");
 scanf("%d",&n2);
 printf("\nEnter  array Elements: ");
-for( j;j<n1;j++){
+for( j;j<n2;j++){
 	scanf("%d",&b[j]);	
 }
 i=0;
