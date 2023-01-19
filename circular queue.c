@@ -39,7 +39,7 @@ void display(){
     }else{
 	printf("\nqueue :");
         while(i>-1 ){
-            printf("%d",a[i]);
+            printf("%d ",a[i]);
 	if(i==r){
 		break;		
 		}
